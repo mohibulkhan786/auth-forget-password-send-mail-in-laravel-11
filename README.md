@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 
-# Auth Forget Password and send email functionality in laravel 11
+## Auth Forget Password and send email functionality in laravel 11
 
 - ✅ In this Post, I will show how to install Bootstrap auth scaffolding in a Laravel 11 application.
 - ✅ Laravel provides a UI package for the easy setup of auth scaffolding. Laravel UI offers simple authentication features, including login, registration, password reset, email verification, and password confirmation, using Bootstrap
